@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="fastapi-quickstart",
-    version="0.1.0",
-    author="Your Name",
+    version="0.1.3",
+    author="JCN",
     author_email="ackmanb@gmail.com",
     description="A quick start tool for FastAPI projects",
     long_description=long_description,
