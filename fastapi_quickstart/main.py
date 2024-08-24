@@ -22,9 +22,12 @@ def create_fastapi_app(app_name: str, output_dir: str = "."):
 
     print(f"FastAPI app structure created in {app_dir}")
 
-if __name__ == "__main__":
+def main():
     import sys
     if len(sys.argv) < 2:
         print("Usage: python -m fastapi_quickstart <app_name>")
     else:
         create_fastapi_app(sys.argv[1])
+
+if __name__ == "__main__":
+    main()
