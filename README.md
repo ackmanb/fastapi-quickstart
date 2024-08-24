@@ -5,7 +5,7 @@ FastAPI QuickStart is a tool to quickly set up a basic structure for a FastAPI a
 ## Installation
 
 ```
-pip install fastapi-quickstart
+pip install fastapi-quickstart-genesis
 ```
 
 ## Usage
